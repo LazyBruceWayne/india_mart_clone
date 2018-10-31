@@ -11,5 +11,5 @@ India's online marketplace that assists manufacturers, suppliers &amp; exporters
 ![India Mart Clone](https://github.com/LazyBruceWayne/india_mart_clone/blob/master/OM3.png)
 <hr>
 
-![India Mart Clone](https://github.com/LazyBruceWayne/india_mart_clone/blob/master/OM34png)
+![India Mart Clone](https://github.com/LazyBruceWayne/india_mart_clone/blob/master/OM4.png)
 <hr>
